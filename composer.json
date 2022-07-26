@@ -1,6 +1,6 @@
 {
-    "name": "khaydarovm/php-clickhouse-migrator",
-    "description": "Migrations for Clickhouse",
+    "name": "onnov/php-clickhouse-migrator",
+    "description": "Migrations for Clickhouse. Fork from https://github.com/khaydarov/php-clickhouse-migrator",
     "license": "MIT",
     "authors": [
         {
