@@ -1,6 +1,6 @@
 # php-clickhouse-migrator
 
-Migrations for Clickhouse
+Migrations for Clickhouse. Fork from https://github.com/khaydarov/php-clickhouse-migrator
 
 [![Daily Downloads](https://poser.pugx.org/khaydarov/php-clickhouse-migrator/d/daily)](https://packagist.org/packages/khaydarov/php-clickhouse-migrator)
 [![Latest Stable Version](https://poser.pugx.org/khaydarov/php-clickhouse-migrator/v/stable.png)](https://packagist.org/packages/khaydarov/php-clickhouse-migrator)
